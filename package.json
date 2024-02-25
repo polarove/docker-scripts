@@ -1,0 +1,23 @@
+{
+  "name": "docker-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "latest",
+    "@commitlint/config-conventional": "latest",
+    "@esbuild-kit/cjs-loader": "latest",
+    "commitizen": "latest",
+    "cz-conventional-changelog": "latest",
+    "fast-glob": "latest",
+    "husky": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "vitest": "latest"
+  }
+}
