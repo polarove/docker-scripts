@@ -1,0 +1,2 @@
+
+docker exec -i nginx-ssl sh -c 'nginx -t'
