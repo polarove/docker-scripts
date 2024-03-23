@@ -9,15 +9,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@commitlint/cli": "latest",
-    "@commitlint/config-conventional": "latest",
-    "@esbuild-kit/cjs-loader": "latest",
     "commitizen": "latest",
     "cz-conventional-changelog": "latest",
-    "fast-glob": "latest",
-    "husky": "latest",
-    "typescript": "latest",
-    "vite": "latest",
-    "vitest": "latest"
+    "husky": "latest"
   }
 }
