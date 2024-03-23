@@ -1,1 +1,0 @@
-import{a9 as t,F as n,p as o,x as e}from"./index-69a426b7.js";const s={},c=e("div",null,"我发现你了！",-1),_=e("div",null,"页面施工中。。。功能待定",-1),a=[c,_];function r(d,i){return o(),n("div",null,a)}const f=t(s,[["render",r]]);export{f as default};
